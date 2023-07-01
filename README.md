@@ -8,7 +8,7 @@ The earliest form of "rock paper scissors"-style game originated in China and wa
 
 In this project we attempt to make a quantum rock paper scissors game by utilising the properties of quantum mechanics, such as superposition to make this game different from it's classical counterpart.
 
-Rules:
+## Rules:
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
