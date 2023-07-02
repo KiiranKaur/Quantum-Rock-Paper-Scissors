@@ -1,4 +1,4 @@
-# <u><center>Quantum Rock Paper Scissors Lizard Spork</u></center>
+# <u><center>Quantum Rock Paper Scissors </u></center>
 
 ![image](hands-playing-rock-paper-scissors-game-flat-design-style-vector-illustration_540284-598.avif)
 
